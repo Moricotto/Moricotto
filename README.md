@@ -1,4 +1,3 @@
-## Greetings!
 My name is Moricotto. I am a coder who develops both hardware and software, in C++, Python, and SystemVerilog. I specialise in computational physics and numerical simulations.
 
 ## Interests
